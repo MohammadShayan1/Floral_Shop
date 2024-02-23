@@ -9,7 +9,7 @@
 
 | Student Id | Student Name |
 | ------------- | ------------- |
-| Student1413931 | Mohammad Shayan |
+| <a src="https://github.com/MohammadShayan1">Student1413931</a> | <a src="mohammadshayan.com">Mohammad Shayan</a> |
 | Student1413950 | Shahmeer Fareed  |
 |                | Abdullah Bin Saba |
 |                | Ubaid |
@@ -17,5 +17,5 @@
 
 ## ⚙️ Language we have used:
 <p align="left">
-  [<img src="https://user-images.githubusercontent.com/1454075/66454740-fb973580-ea68-11e9-9993-6c1014881528.png" width="200">](https://github.com/dotnet-at-microsoft)
+  <img src="https://user-images.githubusercontent.com/1454075/66454740-fb973580-ea68-11e9-9993-6c1014881528.png" width="200">
 </p>
