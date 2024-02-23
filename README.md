@@ -1,6 +1,6 @@
 # Floral_Shop
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=500&color=EE1773&center=true&vCenter=true&width=435&lines=Aptech+Eproject+2024;Floral_Shop;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=500&color=F42C4F&center=true&vCenter=true&width=435&lines=Aptech+Eproject+2024;Floral_Shop;" alt="Typing SVG" />
 </div>
 
 ## Instructions
@@ -17,5 +17,5 @@
 
 ## ⚙️ Language we have used:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  [<img src="https://user-images.githubusercontent.com/1454075/66454740-fb973580-ea68-11e9-9993-6c1014881528.png" width="200">](https://github.com/dotnet-at-microsoft)
 </p>
