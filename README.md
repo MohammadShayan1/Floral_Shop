@@ -9,7 +9,7 @@
 
 | Student Id | Student Name |
 | ------------- | ------------- |
-| <a href="https://github.com/MohammadShayan1">Student1413931</a> | <a href="mohammadshayan.com">Mohammad Shayan</a> |
+| <a href="https://github.com/MohammadShayan1">Student1413931</a> | <a href="https://mohammadshayan.com/">Mohammad Shayan</a> |
 | Student1413950 | Shahmeer Fareed  |
 |                | Abdullah Bin Saba |
 |                | Ubaid |
