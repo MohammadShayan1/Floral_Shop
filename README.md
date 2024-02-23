@@ -11,9 +11,9 @@
 | ------------- | ------------- |
 | <a href="https://github.com/MohammadShayan1">Student1413931</a> | <a href="https://mohammadshayan.com/">Mohammad Shayan</a> |
 | Student1413950 | Shahmeer Fareed  |
-|                | Abdullah Bin Saba |
-|                | Ubaid |
-|                |Hassan Abdullah |
+| Student1413906 | Abdullah Bin Saba |
+| Student1422408 | Ubaid Raza |
+| Student1418307 | Syed Muhammad Hasan Abdullah |
 
 ## ⚙️ Language we have used:
 <p align="left">
