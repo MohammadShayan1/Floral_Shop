@@ -1,0 +1,12 @@
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\bin\Debug\net6.0\App_For_Students.Models.deps.json
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\bin\Debug\net6.0\App_For_Students.Models.dll
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\bin\Debug\net6.0\App_For_Students.Models.pdb
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.csproj.AssemblyReference.cache
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.AssemblyInfoInputs.cache
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.AssemblyInfo.cs
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.csproj.CoreCompileInputs.cache
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.dll
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\refint\App_For_Students.Models.dll
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\App_For_Students.Models.pdb
+C:\Users\zaman\Desktop\Batch2209e01_MVC\App_For_Students\App_For_Students.Models\obj\Debug\net6.0\ref\App_For_Students.Models.dll

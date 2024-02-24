@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQDU8HfPQBmotyCrwC5GC73UEovbvzvAqh75BCDVWBzuX41Kb9uYf2Cd04iXY+faY9E2uPD16bgSMnlHpc2apw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\App_For_Students\\App_For_Students.DataAccessLayers\\App_For_Students.DataAccessLayers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
