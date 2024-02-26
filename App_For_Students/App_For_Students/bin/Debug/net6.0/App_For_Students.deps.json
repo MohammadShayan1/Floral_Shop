@@ -10,6 +10,7 @@
         "dependencies": {
           "App_For_Students.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.16",
+          "Microsoft.EntityFrameworkCore.Design": "7.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.16",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.16"
         },

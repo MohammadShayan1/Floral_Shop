@@ -23,4 +23,8 @@
     <ProjectReference Include="..\App_For_Students.Models\App_For_Students.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\shop\" />
+  </ItemGroup>
+
 </Project>
