@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students\\App_For_Students.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students\\App_For_Students.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj",
         "projectName": "App_For_Students.Models",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\obj\\",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,29 +63,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students\\App_For_Students.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students\\App_For_Students.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students\\App_For_Students.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students\\App_For_Students.csproj",
         "projectName": "App_For_Students",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students\\App_For_Students.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students\\obj\\",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students\\App_For_Students.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Downloads\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj"
+              "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj": {
+                "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Floral_Shop\\App_For_Students\\App_For_Students.Models\\App_For_Students.Models.csproj"
               }
             }
           }
@@ -149,6 +163,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -157,7 +189,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
