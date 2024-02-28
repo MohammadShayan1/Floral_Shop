@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App_For_Students.Models.Models
+namespace App_For_Students.Models
 {
-    internal class Customer
+    public class Customer
     {
         [Key]
         public int custid { get; set; }

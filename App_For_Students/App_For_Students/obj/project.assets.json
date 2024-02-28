@@ -3912,6 +3912,9 @@
       "App_For_Students.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.16"
+        },
         "compile": {
           "bin/placeholder/App_For_Students.Models.dll": {}
         },
