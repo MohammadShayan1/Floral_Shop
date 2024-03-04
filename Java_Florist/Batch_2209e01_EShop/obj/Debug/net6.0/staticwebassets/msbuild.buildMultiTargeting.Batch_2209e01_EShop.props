@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Batch_2209e01_EShop.props" />
+</Project>

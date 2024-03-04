@@ -1,0 +1,51 @@
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.deps.json
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.dll
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.pdb
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\refint\EcomApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Batch2209e01_Web MVC\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\ref\EcomApp.DataAccessLayer.dll
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.deps.json
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.runtimeconfig.json
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.dll
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.pdb
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CopyComplete
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\refint\EcomApp.DataAccessLayer.dll
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\zaman\Desktop\ECOM_APP_2209e01\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\ref\EcomApp.DataAccessLayer.dll
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.deps.json
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.runtimeconfig.json
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.dll
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\bin\Debug\net6.0\EcomApp.Models.pdb
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.csproj.CopyComplete
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.dll
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\refint\EcomApp.DataAccessLayer.dll
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.pdb
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\EcomApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\HP\Downloads\ECOM_APP_2209e01\EcomApp.DataAccessLayer\obj\Debug\net6.0\ref\EcomApp.DataAccessLayer.dll

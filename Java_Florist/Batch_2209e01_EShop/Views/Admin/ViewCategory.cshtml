@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Create Products";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model IEnumerable<Category>
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h1 class="text-success">Categories List</h1>
+    </div>
+    <div class="col-md-6">
+        <a asp-action="CreateCategory" asp-controller="Admin" class="btn btn-info">Add Cateogry</a>
+    </div>
+</div>
+<table class="table table-bordered" style="width:100%">
+
+    <thead>
+        <tr>
+            <th>Category Id</th>
+            <th>Category Name</th>
+            <th>Category Display Order</th>
+            <th>Category Added Time</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+         @foreach (var i in Model)
+        {
+        <tr>
+        <td>
+        @i.C_Id
+        </td>
+        <td>
+        @i.C_Name
+        </td>
+        <td>
+        @i.Display_Order
+        </td>
+        <td>
+        @i.CategoryAdded
+        </td>
+        <td>
+        <a asp-action="Edit" asp-controller="Admin" asp-route-id="@i.C_Id" class="btn btn-outline-success">Update</a>
+        <a asp-action="Delete" asp-controller="Admin" asp-route-id="@i.C_Id" class="btn btn-outline-danger">Delete</a>
+        </td>
+        </tr>
+        }
+    </tbody>
+</table>

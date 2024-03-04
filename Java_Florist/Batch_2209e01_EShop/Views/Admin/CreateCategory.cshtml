@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Create Products";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Category
+
+<form method="Post">
+    
+    <label asp-for="C_Name">Category Name</label>
+    <input asp-for="C_Name" type="text" class="form-control" />
+
+    <label asp-for="Display_Order">Display Order</label>
+    <input asp-for="Display_Order" type="number" class="form-control" />
+    <br>
+    <button class="btn btn-primary" type="submit">Add Category</button>
+
+</form>

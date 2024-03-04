@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Create Products";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model EcomApp.Models.ViewModels.ProductVM
+
+<form method="post" asp-action="CreateUpdate_Product" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Product.Id" />
+    <h2 class="text-success"> @((Model.Product == null || Model.Product.Id==0)?"Create":"Update") Product</h2>
+
+    <label asp-for="Product.Name">Product Name</label>
+    <input asp-for="Product.Name" type="text" class="form-control" />
+
+    <label asp-for="Product.Description">Product Description</label>
+    <input asp-for="Product.Description" type="text" class="form-control" />
+
+
+    <label asp-for="Product.Price">Product Price</label>
+    <input asp-for="Product.Price" type="text" class="form-control" />
+
+    <label asp-for="Product.ImageURL">Product Image</label>
+    <input type="file" name="file" class="form-control" />
+
+    <label asp-for="Product.CategoryId">Category</label>
+    <select asp-for="Product.CategoryId" asp-items="Model.Categoires" class="form-control">
+        <option selected disabled>Select Category</option>
+    </select>
+    <br>
+    <button class="btn btn-outline-success" type="submit">Create Product</button>
+
+</form>

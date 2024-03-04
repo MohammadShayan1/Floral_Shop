@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Product>
+
+  <!-- gallery section -->
+  <section class="gallery_section layout_padding">
+
+    <div class="heading_container justify-content-center">
+      <h2>
+        Our Gallery
+      </h2>
+    </div>
+    <div class="container">
+      <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+{
+          <div class="col-sm">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="@item.ImageURL" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Description</p>
+                 <h6 class="card-body">@item.Price</h6>
+                <a href="#" class="btn btn-primary">Add to cart</a>
+              </div>
+            </div>
+          </div>
+          }
+          
+          </div>
+        </div>
+      </div>
+  </div>
+  </section>
+  <!-- end gallery section -->
+
