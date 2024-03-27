@@ -4,6 +4,7 @@ using EcomApp.Models;
 using EcomApp.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting.Internal;
 
 namespace Batch_2209e01_EShop.Controllers
@@ -160,7 +161,7 @@ namespace Batch_2209e01_EShop.Controllers
                     {
                         file.CopyTo(fileStream);
                     }
-                    vm.Product.ImageURL = @"\ProductImages\"+filename;
+                    vm.Product.ImageURL = @"\ProductImages\"+ filename;
                 }
 
                 if(vm.Product.Id==0)
@@ -182,7 +183,7 @@ namespace Batch_2209e01_EShop.Controllers
             return View(products);
            
         }
-
+    
 
     }
 

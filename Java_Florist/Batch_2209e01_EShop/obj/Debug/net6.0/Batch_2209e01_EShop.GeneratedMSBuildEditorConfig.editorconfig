@@ -9,87 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Batch_2209e01_EShop
 build_property.RootNamespace = Batch_2209e01_EShop
-build_property.ProjectDir = C:\Users\HP\Downloads\ECOM_APP_2209e01\Batch_2209e01_EShop\
+build_property.ProjectDir = C:\Users\HP\OneDrive\Desktop\Java_Florist\Batch_2209e01_EShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\Downloads\ECOM_APP_2209e01\Batch_2209e01_EShop
+build_property.MSBuildProjectDirectory = C:\Users\HP\OneDrive\Desktop\Java_Florist\Batch_2209e01_EShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/CreateCategory.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/CreateUpdate_Product.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/CreateUpdate_Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlVXBkYXRlX1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/Delete.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/Edit.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/Index.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/ViewCategory.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/ViewCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0NhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Admin/ViewProduct.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Admin/ViewProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Home/Index.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Home/Privacy.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Shared/Error.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/User/About.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/User/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/User/Gallery.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/User/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/User/Index.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/User/Index1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleDEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/_ViewImports.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/_ViewStart.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-kq8jdl2o4m
 
-[C:/Users/HP/Downloads/ECOM_APP_2209e01/Batch_2209e01_EShop/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/OneDrive/Desktop/Java_Florist/Batch_2209e01_EShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vr1lsdcszb

@@ -13,7 +13,7 @@ namespace Batch_2209e01_EShop.Controllers
         }
         public IActionResult Index()
         {
-
+ 
             return View();
         }
 
